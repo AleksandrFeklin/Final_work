@@ -7,8 +7,8 @@
  * Печать массива.
  * Вывод массивов на экран.
 
- # Работа с изображениями
-
-
+ 
 ## ![Блок-Схема](https://github.com/AleksandrFeklin/Final_work/blob/master/Sxema.png)
+
+
 ## ![Код программы](https://github.com/AleksandrFeklin/Final_work/blob/master/Program/Program.cs)
