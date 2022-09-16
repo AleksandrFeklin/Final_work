@@ -8,7 +8,7 @@
  * Вывод массивов на экран.
 
  
-## ![Блок-Схема](https://github.com/AleksandrFeklin/Final_work/blob/master/Sxema.png)
+## [Блок-Схема](https://github.com/AleksandrFeklin/Final_work/blob/master/Sxema.png)
 
 
-## ![Код программы](https://github.com/AleksandrFeklin/Final_work/blob/master/Program/Program.cs)
+## [Код программы](https://github.com/AleksandrFeklin/Final_work/blob/master/Program/Program.cs)
